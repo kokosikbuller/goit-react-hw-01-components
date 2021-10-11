@@ -1,0 +1,42 @@
+.profile {
+    width: 500px;
+    margin: 100px auto;
+    background-color: #fff;
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+    border-radius: 20px;
+
+    .description {
+        padding-top: 20px;
+
+        .avatar {
+            width: 450px;
+            height: 450px;
+            margin: 0 auto;
+            display: flex;
+            border-radius: 25%;
+        }
+
+        .name,
+        .tag,
+        .location {
+            text-align: center;
+            font-size: 18px;
+            font-weight: bold;
+        }
+    }
+
+    .stats {
+        padding-bottom: 20px;
+        list-style: none;
+        display: flex;
+        justify-content: space-around;
+
+        .quantity {
+            font-weight: bold;
+        }
+    }
+}
+
+span {
+    font-weight: normal;
+}

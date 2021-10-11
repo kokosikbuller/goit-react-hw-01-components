@@ -1,0 +1,32 @@
+[
+    {
+      "avatar": "https://html5css.ru/w3images/avatar2.png",
+      "name": "Vova",
+      "isOnline": true,
+      "id": 1812
+    },
+    {
+      "avatar": "https://html5css.ru/w3images/avatar2.png",
+      "name": "Sara",
+      "isOnline": false,
+      "id": 1137
+    },
+    {
+      "avatar": "https://html5css.ru/w3images/avatar2.png",
+      "name": "Mike",
+      "isOnline": true,
+      "id": 1213
+    },
+    {
+      "avatar": "https://html5css.ru/w3images/avatar2.png",
+      "name": "Bob",
+      "isOnline": true,
+      "id": 1714
+    },
+    {
+      "avatar": "https://html5css.ru/w3images/avatar2.png",
+      "name": "Sveta",
+      "isOnline": false,
+      "id": 1284
+    }
+  ]
